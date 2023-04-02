@@ -1,0 +1,29 @@
+Cách chạy các câu hỏi:
+
+Câu 1:
+python Q1.py
+
+Câu 2:
+python Q2.py
+
+Câu 3:
+python Q3-mean.py
+python Q3-median.py
+python Q3-mode.py
+
+Câu 4:
+python Q4.py
+
+Câu 5:
+python Q5.py
+
+Câu 6:
+python Q6.py
+
+Câu 7: 
+python Q7-minmax.py
+python Q7-Zscore.py
+
+Câu 8:
+python Q8.py
+
